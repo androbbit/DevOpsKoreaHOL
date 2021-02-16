@@ -6,6 +6,8 @@ The documentation can be hosted on any HTML repositories including your GitHub P
 
 This document has been edited as a part of hands-on tutorial.
 
+The second edit has been done to test commit message.
+
 ## Running locally
 
 1. Run `dotnet run -p generator/src/generator.csproj -- . "http://localhost:8000/" _site` to build the HTML files.
